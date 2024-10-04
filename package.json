@@ -1,0 +1,29 @@
+{
+	"name": "chatspot",
+	"version": "1.0.0",
+	"description": "a chat application built upon MERN and Socket.IO",
+	"main": "server.js",
+	"author": "Yousuf Ejaz Ahmad",
+	"license": "ISC",
+	"scripts": {
+		"server": "nodemon backend/server.js",
+		"client": "cd frontend && yarn dev",
+		"dev": "concurrently \"yarn server\" \"yarn client\""
+	},
+	"dependencies": {
+		"axios": "^1.3.4",
+		"bcryptjs": "^2.4.3",
+		"colors": "^1.4.0",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"express-async-handler": "^1.2.0",
+		"jsonwebtoken": "^9.0.0",
+		"mongoose": "^6.10.0",
+		"socket.io": "^4.6.1",
+		"yarn": "^1.22.19"
+	},
+	"devDependencies": {
+		"concurrently": "^7.6.0",
+		"nodemon": "^2.0.20"
+	}
+}
