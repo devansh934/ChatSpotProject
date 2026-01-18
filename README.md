@@ -1,7 +1,7 @@
 # Chatspot: An Web based chat Application 
 
 
-## [VIEW LIVE DEMO](https://chatspot-prod.onrender.com/)
+## [VIEW LIVE DEMO](https://chatapp-dh57.onrender.com/login)
 
 ## 🚧 Technology Stack
 
