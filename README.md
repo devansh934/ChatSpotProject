@@ -1,4 +1,5 @@
-# Chatspot: A real-time chat application built with React.js that supports secure authentication, private and group messaging, and responsive UI with optional Node.js + Socket.io backend for live communication.
+# Chatspot: 
+A real-time chat application built with React.js that supports secure authentication, private and group messaging, and responsive UI with optional Node.js + Socket.io backend for live communication.
 
 
 ## [VIEW LIVE DEMO](https://chatapp-dh57.onrender.com/login)
