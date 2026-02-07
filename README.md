@@ -4,7 +4,7 @@ A real-time chat application built with React.js that supports secure authentica
 
 ## 🌐 Live Preview
 
- [VIEW LIVE DEMO](https://chatapp-dh57.onrender.com/login)
+ [VIEW LIVE DEMO - Chatspot](https://chatapp-dh57.onrender.com/login)
  
 
 ## 🚧 Technology Stack
