@@ -76,6 +76,7 @@ I structured the application based on MVC Architecture. MVC stands for Model, Vi
 3. The `Controller` contains the implemtation and logic to all the routes which ultimately updates the model and/or view in response to input from the users of the app.
 
 
+
 ## 🔨 API Endpoints
 
 `/api/chat`
